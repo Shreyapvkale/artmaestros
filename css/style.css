@@ -1,0 +1,40 @@
+div{
+    color:black;
+}
+.box{
+    color:black;
+    font-size: 70px;
+    margin-top: 10px;
+    text-align: left;
+    padding: 20px;
+    display: inline-block;
+    width: 49%;
+    
+}
+.steel{
+     color:black(20, 108, 223);
+     font-size: 20px;
+     margin-top: 1px;
+     text-align: right;
+     padding: 20px;
+}
+
+.a-header{
+    font-size:medium  !important;
+    color: rgb(0, 0, 0)important;
+    padding: 5px   !important;
+    margin: auto;
+}
+.div-1 {
+    border: 1px solid black;
+    margin: 5px  !important;
+}
+
+.div-footer{
+    height: 100px;
+    color:black;
+    padding: 10%;
+}
+div.price{font-size: 20px;
+         color:black;
+}
