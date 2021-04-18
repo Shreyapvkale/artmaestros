@@ -3,12 +3,11 @@ div{
 }
 .box{
     color:black;
-    font-size: 70px;
-    margin-top: 10px;
+    font-size: 30px;
     text-align: left;
     padding: 20px;
     display: inline-block;
-    width: 49%;
+    font-family: cursive;
     
 }
 .steel{
@@ -17,13 +16,15 @@ div{
      margin-top: 1px;
      text-align: right;
      padding: 20px;
+     font-family: cursive;
 }
 
-.a-header{
-    font-size:medium  !important;
-    color: rgb(0, 0, 0)important;
-    padding: 5px   !important;
+.a-header-1{
+    font-size:medium;
+    color: black;
+    padding: 5px ;
     margin: auto;
+    font-family: cursive;
 }
 .div-1 {
     border: 1px solid black;
@@ -37,4 +38,8 @@ div{
 }
 div.price{font-size: 20px;
          color:black;
+}
+div.container{
+     background-color: lightgrey;
+     background-origin: content-box;
 }
