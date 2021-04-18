@@ -8,6 +8,7 @@ div{
     padding: 20px;
     display: inline-block;
     font-family: cursive;
+    font-weight: bold;
     
 }
 .steel{
@@ -20,11 +21,12 @@ div{
 }
 
 .a-header-1{
-    font-size:medium;
+    font-size:24px;
     color: black;
-    padding: 5px ;
+    padding: 20px ;
     margin: auto;
     font-family: cursive;
+    text-align: center;
 }
 .div-1 {
     border: 1px solid black;
@@ -42,4 +44,8 @@ div.price{font-size: 20px;
 div.container{
      background-color: lightgrey;
      background-origin: content-box;
+}
+.extraLarge{
+    font-size: 50px;
+    font-weight: bold;
 }
